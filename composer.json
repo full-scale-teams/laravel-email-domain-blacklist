@@ -1,5 +1,5 @@
 {
-    "name": "alariva/laravel-email-domain-blacklist",
+    "name": "ctberdon/laravel-email-domain-blacklist",
     "description": "A Laravel package for adding email domain blacklist validation rule",
     "type": "library",
     "license": "MIT",

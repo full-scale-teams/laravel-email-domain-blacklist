@@ -1,5 +1,5 @@
 {
-    "name": "ctberdon/laravel-email-domain-blacklist",
+    "name": "gigabooksite/laravel-email-domain-blacklist",
     "description": "A Laravel package for adding email domain blacklist validation rule",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,14 @@
         {
             "name": "Ariel Vallese",
             "email": "alariva@gmail.com"
+        },
+        {
+            "name": "Carmencito Berdon",
+            "email": "ctberdon@gmail.com"
+        },
+        {
+            "name": "Terence Jan Serencio",
+            "email": "terenceserencio@gmail.com"
         }
     ],
     "minimum-stability": "stable",

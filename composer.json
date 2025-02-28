@@ -1,5 +1,5 @@
 {
-    "name": "gigabooksite/laravel-email-domain-blacklist",
+    "name": "full-scale-teams/laravel-email-domain-blacklist",
     "description": "A Laravel package for adding email domain blacklist validation rule",
     "type": "library",
     "license": "MIT",
